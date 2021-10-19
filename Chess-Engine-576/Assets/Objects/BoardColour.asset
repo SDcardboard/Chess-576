@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cac40d036feb6574aaae211f64b061f4, type: 3}
+  m_Name: BoardColour
+  m_EditorClassIdentifier: 
+  white:
+    normalColour: {r: 0.7963987, g: 0.8679245, b: 0.7737629, a: 0}
+    legalMoveColor: {r: 0.754717, g: 0.3097188, b: 0.3097188, a: 0}
+    selectedPieceColor: {r: 0.79215693, g: 0.42352945, b: 0.42352945, a: 0}
+  black:
+    normalColour: {r: 0.34853262, g: 0.4528302, b: 0.33962265, a: 0}
+    legalMoveColor: {r: 0.75294125, g: 0.30980393, b: 0.30980393, a: 0}
+    selectedPieceColor: {r: 0.7924528, g: 0.42239228, b: 0.42239228, a: 0}
